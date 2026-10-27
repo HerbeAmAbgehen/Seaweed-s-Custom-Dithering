@@ -3,3 +3,5 @@ This is a package for Unity 6 URP. It includes shaders and materials to integrat
 
 The repositiory includes a standalone package with the required files. Please reference the documentation before using this package!
 The package contains three material shaders to generate different dither effects on game objects, as well as a fullscreen shader for use with renderer features.
+
+For details on how to use the package, please refer to the documentation!
